@@ -1,25 +1,29 @@
 class Solution {
     public int minPathSum(int[][] grid) {
-        int m = grid.length;
-        int n= grid[0].length;
-        int[][]dp=new int[m][n];
-        for(int i =0;i<m;i++){
-            Arrays.fill(dp[i],-1);
-        }
-        return MinAns(grid,m-1,n-1,dp);
+         int m =grid.length;
+        int n = grid[0].length;
 
-    }
-    public static int MinAns(int[][]arr,int i,int j,int[][]dp){
+        int[][] dp = new int[m][n];
+
         // base case
-        if(i==0&&j==0)return arr[i][j];
-        if(i<0||j<0) return (int)1e9;
-        if(dp[i][j]!=-1) return dp[i][j];
+        dp[0][0] = grid[0][0];
 
-        int up=arr[i][j]+ MinAns(arr,i-1,j,dp);
-        int left = arr[i][j]+MinAns(arr,i,j-1,dp);
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
 
-        return dp[i][j]=Math.min(up,left);
+                if(i == 0 && j == 0) continue;
 
-    }
+                int up = Integer.MAX_VALUE;
+                int left = Integer.MAX_VALUE;
+
+                if(i > 0) up = grid[i][j] + dp[i-1][j];
+                if(j > 0) left = grid[i][j] + dp[i][j-1];
+
+                dp[i][j] = Math.min(up, left);
+            }
+        }
+
+        return dp[m-1][n-1];
     
+    }
 }

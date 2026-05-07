@@ -1,50 +1,34 @@
 class Solution {
-
     public boolean canPartition(int[] nums) {
-
-        int sum = 0;
-
-        for (int num : nums) {
-            sum += num;
+        int n =nums.length;
+        int Tsum=0;
+        for(int num:nums){
+            Tsum+=num;
         }
-
-        // odd sum cannot be divided equally
-        if (sum % 2 != 0) {
+        if (Tsum % 2 != 0) {
             return false;
         }
-
-        int target = sum / 2;
-        int n = nums.length;
-
-        boolean[][] dp = new boolean[n][target + 1];
-
-        // target = 0 always true
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = true;
+        int target = Tsum/2;
+        int[][]dp = new int[n][target+1];
+        for(int[]row:dp){
+            Arrays.fill(row,-1);
         }
-
-        // first element
-        if (nums[0] <= target) {
-            dp[0][nums[0]] = true;
+        return isSum(nums, n - 1, target, dp);        
+    }
+    public static boolean isSum (int[]arr,int idx,int target,int[][]dp){
+        int n = arr.length;
+        if(target==0) return true;
+        if(idx==0) return arr[0]==target;
+        if(dp[idx][target]!=-1){
+            return dp[idx][target]==1;
         }
-
-        // fill table
-        for (int i = 1; i < n; i++) {
-
-            for (int t = 1; t <= target; t++) {
-
-                boolean notTake = dp[i - 1][t];
-
-                boolean take = false;
-
-                if (nums[i] <= t) {
-                    take = dp[i - 1][t - nums[i]];
-                }
-
-                dp[i][t] = take || notTake;
-            }
+        boolean notTake = isSum(arr,idx-1,target,dp);
+        boolean take = false;
+        if(arr[idx]<target){
+            take = isSum(arr,idx-1,target-arr[idx],dp);
         }
-
-        return dp[n - 1][target];
+        dp[idx][target] = (take || notTake) ? 1 : 0;
+        
+        return dp[idx][target]==1; 
     }
 }

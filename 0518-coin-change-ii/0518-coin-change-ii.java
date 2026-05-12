@@ -2,27 +2,27 @@ class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
         int[][]dp=new int[n][amount+1];
-        for(int []row:dp){
+        for(int[]row:dp){
             Arrays.fill(row,-1);
         }
-        return countWays(coins,n-1,amount,dp);
-        
-    }
-    public static int countWays(int[]arr,int i,int amount,int[][]dp){
-        // base case
-        if(i==0){
-            if(amount % arr[0]==0){
-                return 1;
-            }else{
-                return 0;
+        for(int tar = 0; tar <= amount; tar++) {
+            if(tar % coins[0] == 0) {
+                dp[0][tar] = 1;
+            }else {
+                dp[0][tar]=0;
             }
         }
-        if(dp[i][amount]!=-1) return dp[i][amount];
-        int notTake=countWays(arr,i-1,amount,dp);
-        int take =0;
-        if(arr[i]<=amount){
-            take = countWays(arr,i,amount-arr[i],dp);
+        for(int i =1;i<n;i++){
+            for(int tar =0;tar<=amount;tar++){
+                int notPick = dp[i-1][tar];
+                int pick =0;
+                if(coins[i]<=tar){
+                    pick = dp[i][tar-coins[i]];
+                }
+                dp[i][tar]=pick+notPick;    
+            }
         }
-        return dp[i][amount]=notTake+take;
+
+        return dp[n-1][amount];
     }
 }

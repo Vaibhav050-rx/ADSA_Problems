@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -58,4 +60,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->

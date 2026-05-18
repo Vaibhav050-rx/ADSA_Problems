@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0062-unique-paths) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0055-jump-game) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |

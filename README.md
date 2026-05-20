@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |

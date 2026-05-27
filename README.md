@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |

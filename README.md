@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0062-unique-paths) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
 ## Combinatorics
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0125-valid-palindrome) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack

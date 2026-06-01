@@ -6,7 +6,8 @@ class Number implements Comparable<Number> {
         this.freq=freq;
     }
     public int compareTo(Number that){
-        return that.freq-this.freq;
+        // min heap
+        return this.freq-that.freq; // increasing order
     }
 }
 class Solution {
@@ -20,6 +21,9 @@ class Solution {
        for(Map.Entry<Integer,Integer> entry:freqMap.entrySet()){
         Number number = new Number(entry.getKey(),entry.getValue());
         pq.offer(number);
+        if(pq.size()>k){
+            pq.poll();
+        }
        }
        int res[]=new int[k];
        int index=0;

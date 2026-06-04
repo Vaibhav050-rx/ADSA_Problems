@@ -1,23 +1,30 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
         int n = s.length();
-        int[][]dp=new int[n][n];
-        for(int []row:dp){
-            Arrays.fill(row,-1);
+
+        int[][] dp = new int[n][n];
+
+        // Single character is a palindrome of length 1
+        for (int i = 0; i < n; i++) {
+            dp[i][i] = 1;
         }
-        return palindrone(s,0,n-1,dp);
-    }
-    public static int palindrone(String s1,int left,int right,int[][]dp){
-        int n = s1.length();
-        int ans=0;
-        if(left > right) return 0;
-        if(left == right) return 1;
-        if(dp[left][right] != -1) return dp[left][right];
-        if(s1.charAt(left)==s1.charAt(right)){
-            dp[left][right]=2+palindrone(s1,left+1,right-1,dp);
-        }else{
-            dp[left][right]=Math.max(palindrone(s1,left+1,right,dp),palindrone(s1,left,right-1,dp));
+
+        // Fill table from bottom to top
+        for (int i = n - 1; i >= 0; i--) {
+
+            for (int j = i + 1; j < n; j++) {
+
+                if (s.charAt(i) == s.charAt(j)) {
+                    dp[i][j] = 2 + dp[i + 1][j - 1];
+                } else {
+                    dp[i][j] = Math.max(
+                        dp[i + 1][j],
+                        dp[i][j - 1]
+                    );
+                }
+            }
         }
-        return dp[left][right];
+
+        return dp[0][n - 1];
     }
 }

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
@@ -180,4 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0567-permutation-in-string) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->

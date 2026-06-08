@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0062-unique-paths) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0072-edit-distance) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -257,5 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

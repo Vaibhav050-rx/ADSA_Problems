@@ -105,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |

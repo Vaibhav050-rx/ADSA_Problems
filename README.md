@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0113-path-sum-ii) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0113-path-sum-ii) |

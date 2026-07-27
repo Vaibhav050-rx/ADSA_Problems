@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -322,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -385,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0173-binary-search-tree-iterator) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

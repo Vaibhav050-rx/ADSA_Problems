@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0242-valid-anagram) |

@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Rolling Hash
 |  |
 | ------- |

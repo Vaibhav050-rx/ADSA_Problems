@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -449,4 +452,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

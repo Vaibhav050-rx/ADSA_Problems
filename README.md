@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2730-find-the-longest-semi-repetitive-substring](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/2730-find-the-longest-semi-repetitive-substring) |
 ## Rolling Hash

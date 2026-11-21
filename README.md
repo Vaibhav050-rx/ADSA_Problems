@@ -475,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Vaibhav050-rx/ADSA_Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
